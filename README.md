@@ -1,4 +1,4 @@
-# Maltimart Ecommerce
+# T-Shirt Store
 
 ## 📌 Live Demo
 
