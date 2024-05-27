@@ -4,7 +4,7 @@ import SearchBar from "../components/SeachBar/SearchBar";
 import { Fragment, useEffect, useState } from "react";
 import { products } from "../utils/products";
 import ShopList from "../components/ShopList";
-import Banner from "../components/Banner/Banner";
+// import Banner from "../components/Banner/Banner";
 import useWindowScrollToTop from "../hooks/useWindowScrollToTop";
 import ColorCheckboxGroup from "../components/ColorCheckboxGroup";
 import GenderCheckboxGroup from "../components/GenderCheckboxGroup";
